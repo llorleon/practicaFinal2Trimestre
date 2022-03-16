@@ -1,7 +1,7 @@
-p {
-  background-color: yellow;
-  width: 100%;
+body {
+  background-color: rgb(189, 152, 224);
 }
+
 div {
   display: flex;
   flex-direction: column;

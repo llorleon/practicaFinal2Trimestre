@@ -10,7 +10,7 @@ div {
   margin-right: 30px;
 }
 
-img:hover {
+h2:hover {
   display: flex;
   flex-direction: column;
   width: 300px;

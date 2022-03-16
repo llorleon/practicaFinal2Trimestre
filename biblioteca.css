@@ -6,16 +6,16 @@ div {
   display: flex;
   flex-direction: column;
   width: 300px;
-  margin-left: 10px;
-  margin-right: 10px;
+  margin-left: 30px;
+  margin-right: 30px;
 }
 
 img:hover {
   display: flex;
   flex-direction: column;
   width: 300px;
-  margin-left: 10px;
-  margin-right: 10px;
+  margin-left: 30px;
+  margin-right: 30px;
   transform: scale(1.2, 1.2);
 }
 
@@ -23,8 +23,8 @@ img:active {
   display: flex;
   flex-direction: column;
   width: 300px;
-  margin-left: 10px;
-  margin-right: 10px;
+  margin-left: 30px;
+  margin-right: 30px;
   filter: grayscale(100%);
   box-shadow: 10px 10px;
 }
